@@ -1,0 +1,15 @@
+=== LAPORAN REKAPITULASI NILAI MATEMATIKA KELAS ===
+
+Rata-rata Kelas : 74.12
+Nilai Terendah  : 45.0
+Nilai Tertinggi : 92.0
+
+--- DETAIL STATUS SISWA ---
+Nama: Ayu | Nilai: 85.0 | Status: Tuntas
+Nama: Budi | Nilai: 78.0 | Status: Tuntas
+Nama: Citra | Nilai: 92.0 | Status: Tuntas
+Nama: Dedi | Nilai: 55.0 | Status: Belum Tuntas
+Nama: Eka | Nilai: 90.0 | Status: Tuntas
+Nama: Fajar | Nilai: 60.0 | Status: Belum Tuntas
+Nama: Gina | Nilai: 45.0 | Status: Belum Tuntas
+Nama: Hadi | Nilai: 88.0 | Status: Tuntas
