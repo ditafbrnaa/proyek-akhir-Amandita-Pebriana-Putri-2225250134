@@ -23,6 +23,7 @@ Proyek ini dikembangkan untuk menyelesaikan permasalahan rekapitulasi nilai ujia
    ```
 
 ## Struktur Folder
+```text
 proyek-akhir-Amandita-Pebriana-Putri-2225250134/
 │
 ├── data/
@@ -41,6 +42,7 @@ proyek-akhir-Amandita-Pebriana-Putri-2225250134/
 ├── proposal.md                   # Proposal perancangan proyek (Pertemuan 14)
 ├── laporan_nilai.txt             # Berkas hasil keluaran (output) program
 └── README.md                     # Dokumentasi utama proyek
+```
 
 ## Test Case
 | No | Skenario Uji | Data Masukan (Input) | Harapan Hasil (Expected Output) | Hasil Aktual | Status |
