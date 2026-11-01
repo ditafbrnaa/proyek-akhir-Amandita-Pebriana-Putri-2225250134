@@ -8,8 +8,8 @@ Nilai Tertinggi : 92.0
 Nama: Ayu | Nilai: 85.0 | Status: Tuntas
 Nama: Budi | Nilai: 78.0 | Status: Tuntas
 Nama: Citra | Nilai: 92.0 | Status: Tuntas
-Nama: Dedi | Nilai: 55.0 | Status: Belum Tuntas
+Nama: Dedi | Nilai: 55.0 | Status: Remedial
 Nama: Eka | Nilai: 90.0 | Status: Tuntas
-Nama: Fajar | Nilai: 60.0 | Status: Belum Tuntas
-Nama: Gina | Nilai: 45.0 | Status: Belum Tuntas
+Nama: Fajar | Nilai: 60.0 | Status: Remedial
+Nama: Gina | Nilai: 45.0 | Status: Remedial
 Nama: Hadi | Nilai: 88.0 | Status: Tuntas

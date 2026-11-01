@@ -19,4 +19,4 @@ def tentukan_status(nilai, kkm=70):
     if nilai >= kkm:
         return "Tuntas"
     else:
-        return "Belum Tuntas"
+        return "Remedial"

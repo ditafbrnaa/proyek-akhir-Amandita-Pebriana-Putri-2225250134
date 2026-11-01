@@ -6,3 +6,4 @@ Eka,90
 Fajar,60
 Gina,45
 Hadi,88
+Andi, 105
